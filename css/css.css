@@ -1,0 +1,48 @@
+h1 {
+	font-family: "Garamond";
+}
+a {
+	color: #d9534f;
+	font-family: "Garamond";
+	font-size: 22px;
+}
+p {
+	font-family: "Garamond";
+	font-size: 20px;
+}
+h3 {
+	font-family: "Garamond";
+}
+.control-label{
+	font-family: "Garamond";
+	font-size: 20px;
+	font-style: normal;
+}
+.menu-button{
+	float: left;
+	width: 300px;
+}
+.highslide-gallery{
+padding: 30px; /* Поля вокруг текста */
+    margin: 65px;
+}
+table {
+margin: auto;
+}
+ td {
+    text-align: center; 
+   }
+   .img-responsive1{
+   	float: left;
+   	margin-right: 20px;
+   	margin-bottom: 15px;
+   	width: 250px;
+   	min-height: 100%;
+   }
+   .img-responsive2{
+   	float: right;
+   	margin-left: 20px;
+   	margin-bottom: 15px;
+   	width: 500px;
+   	min-height: 100%;
+   }
